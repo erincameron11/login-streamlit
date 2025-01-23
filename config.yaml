@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    ecam:
+      email: erincameron11@hotmail.com
+      failed_login_attempts: 0
+      first_name: Erin
+      last_name: Cameron
+      logged_in: false
+      password: $2b$12$EZjhoSg602Mnwg0yH1H1FuknZRVGAK6c9bRVnhXL9dz/fJ9u87f0O
+    lrich:
+      email: laura.michelle.richards@gmail.com
+      failed_login_attempts: 0
+      first_name: Laura
+      last_name: Richards
+      logged_in: false
+      password: $2b$12$WC.Mj9QBZOBx3VRgCwiicOnOf0j6BiBDpt6vJ8RJAWR3zvRiS835a
